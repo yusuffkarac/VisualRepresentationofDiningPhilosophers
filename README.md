@@ -1,5 +1,5 @@
 # VisualRepresentationofDiningPhilosophers
-Visual Representation of Dining Philosophers with Python Library Flet
+Visual Representation of Dining Philosophers with Python Framework Flet
 You can install flet with: pip install flet
 
 
